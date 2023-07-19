@@ -26,4 +26,3 @@ After pasting the directory of the PDF file into the entry box and click Convert
 
 However, if no PDF file matching with your file location is found, there will be a message box to let you know that.
 ![nopdffound](https://user-images.githubusercontent.com/87378628/135120899-979452ca-bcfb-4cb7-a889-3f60a1a70070.png)
-# pdf2img
